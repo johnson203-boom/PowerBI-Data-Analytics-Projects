@@ -24,19 +24,6 @@ I'll continue adding new projects as I develop my skills and take on more challe
 - Business intelligence and reporting
 - Communicating data-driven insights
 
-## Projects
-
-### 1. Project Name
-
-**Overview:** Briefly describe the business problem or subject being investigated.
-
-**Tools:** Microsoft Power BI, Power Query, DAX.
-
-**Key Focus:** Data preparation, modelling, analysis, and dashboard development.
-
-**Dashboard:** [View Interactive Dashboard](#)
-
-**Project Documentation:** [Read More](#)
 
 ---
 
@@ -51,4 +38,4 @@ I'm continuously developing my technical skills through hands-on projects using 
 ## Connect With Me
 
 - **GitHub:** [My GitHub Profile](https://github.com/johnson203-boom)
-- **LinkedIn:** https://www.linkedin.com/in/steven-ayomide-johnson-893438313/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0eDzG4ByTV6R6z6uC5zliw%3D%3D
+- **LinkedIn:** [https://www.linkedin.com/in/steven-ayomide-johnson-893438313/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0eDzG4ByTV6R6z6uC5zliw%3D%3D]
