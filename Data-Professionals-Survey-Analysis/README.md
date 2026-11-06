@@ -38,14 +38,6 @@ I wanted to look beyond the obvious figures and explore additional relationships
 
 These additional areas of exploration helped me think more critically about the data and how to get more value from a dataset rather than simply creating visuals.
 
-## Dashboard Preview
-
-<img width="1162" height="660" alt="Data-Professional-Survey-Project" src="https://github.com/user-attachments/assets/a2b9f4c7-d523-4e22-b224-851ec16f1c5b" />
-
-
-## Explore the Interactive Dashboard
-
-**[Click here to view my Power BI Dashboard](PASTE-YOUR-DASHBOARD-LINK-HERE)**
 
 ## What I Learned
 
@@ -53,9 +45,15 @@ This project gave me more hands-on experience with Power BI, particularly in dat
 
 It also reminded me that data analysis goes beyond creating charts and displaying numbers. The real value comes from asking the right questions, exploring the data and finding information that can help people understand a situation better.
 
+
+## Dashboard Preview
+
+<img width="1162" height="660" alt="Data-Professional-Survey-Project" src="https://github.com/user-attachments/assets/a2b9f4c7-d523-4e22-b224-851ec16f1c5b" />
+
 ## Project Files
 
-- [Power BI dashboard file] (https://github.com/johnson203-boom/PowerBI-Data-Analytics-Projects/blob/main/Data-Professionals-Survey-Analysis/Power%20BI%20-%20Final%20Project%20(1).xlsx)
+- [Power BI dashboard file](https://github.com/johnson203-boom/PowerBI-Data-Analytics-Projects/blob/main/Data-Professionals-Survey-Analysis/Data-Professionals-Survey-Project.pbix)
+- Original survey dataset(https://github.com/johnson203-boom/PowerBI-Data-Analytics-Projects/blob/main/Data-Professionals-Survey-Analysis/Power%20BI%20-%20Final%20Project%20(1).xlsx)
 
 **Created by: Johnson Steven**  
 **Focus: Data Analytics | Business Intelligence**
