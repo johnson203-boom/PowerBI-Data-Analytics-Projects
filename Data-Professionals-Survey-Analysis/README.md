@@ -40,7 +40,7 @@ These additional areas of exploration helped me think more critically about the 
 
 ## Dashboard Preview
 
-![Data Professionals Survey Dashboard](<img width="1162" height="660" alt="Data-Professional-Survey-Project" src="https://github.com/user-attachments/assets/e2e57804-aee4-49bd-a9bf-d76ea258149d" />)
+<img width="1162" height="660" alt="Data-Professional-Survey-Project" src="https://github.com/user-attachments/assets/e2e57804-aee4-49bd-a9bf-d76ea258149d" 
 
 ## Explore the Interactive Dashboard
 
