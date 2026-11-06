@@ -55,11 +55,7 @@ It also reminded me that data analysis goes beyond creating charts and displayin
 
 ## Project Files
 
-- Power BI dashboard file (`.pbix`)
-- Original survey dataset
-- Dashboard screenshot
-
----
+- [Power BI dashboard file] (https://github.com/johnson203-boom/PowerBI-Data-Analytics-Projects/blob/main/Data-Professionals-Survey-Analysis/Power%20BI%20-%20Final%20Project%20(1).xlsx)
 
 **Created by: Johnson Steven**  
 **Focus: Data Analytics | Business Intelligence**
